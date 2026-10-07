@@ -16,9 +16,7 @@
 
 ### 🚀 About Me
 
-- 🔬 **AI & Low-Resource Deep Learning Engineer**: Specializing in memory-efficient LLM fine-tuning, quantization (4-bit NF4, GGUF), and post-training optimization (SFT, DPO, GRPO).
-- 🥣 **Creator of [SoupLite](https://github.com/jaksilikov/souplite)**: Re-engineered LLM fine-tuning pipelines down to a strict **&le; 2 GB RAM budget** using C-heap memory reclamation (`malloc_trim`) and zero-copy streaming data pipelines.
-- 🤖 **Developer of ENCONA AI Bot**: A multimodal Telegram Bot ([@encona_kz_bot](https://t.me/encona_kz_bot)) supporting free GPT-4o text generation, Flux.1 HD photo generation, AI video clips, and TTS voice notes.
+
 - 💻 **Core Technologies**: PyTorch, Transformers, PEFT, TRL, C++, Linux Kernel Memory Management, Python, Docker.
 
 ---
